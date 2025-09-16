@@ -1,18 +1,15 @@
-<<<<<<< HEAD
-# hackathon-2025-demo
+# NextBus App – Project Manager README
 
-NEXT STOP – Bus Route Tracker is a web application that aims to make bus travel easy for commuters. Developed with HTML, CSS, JavaScript, and Leaflet.js, the application enables users to:
+## Role
+I managed the overall project workflow and coordinated contributions from all members.
 
-See available bus routes on an interactive map.
+## Key Contributions
+- Defined project goals and task distribution.
+- Managed GitHub repository and version control.
+- Ensured smooth integration of all frontend modules.
+- Maintained project timeline for hackathon demo.
 
-See stop information and estimated arrival times.
-
-Mark and track chosen routes.
-
-Find their location on the map and the nearest bus stop.
-
-Have a real-time dashboard that displays stop data dynamically.
-
-The project is user-friendly and responsive and could be used in hackathons, smart city projects, or academic demos. Future extensions include downloads of timetables, GPS tracking of buses in real time, route searching, and push notifications.
-
-
+## Tools & Skills Used
+- GitHub Project Management
+- Agile Workflow
+- Documentation
